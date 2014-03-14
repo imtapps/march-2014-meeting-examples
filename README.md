@@ -25,3 +25,7 @@
 # Descriptors
 
 * CharField w/ max length
+
+
+Context Lib:
+http://hg.python.org/cpython/file/2.7/Lib/contextlib.py
